@@ -253,10 +253,10 @@ button {
 .header {
      width: 100%;
      height: 104px;
-     padding: 20px 25px;
+     padding: 0px 25px;
      position: fixed;
      z-index: 9;
-     background: url(../images/header.jpg);
+     background: url(../images/header2.jpg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -294,11 +294,11 @@ ul.site_menu li a {
 }
 
 .sidepanel a:hover {
-     color: #f3cf2d;
+     color: #f8a32c;
 }
 
 .sidepanel a.active {
-     color: #f3cf2d;
+     color: #f8a32c;
 }
 
 .sidepanel .closebtn {
@@ -319,7 +319,7 @@ ul.site_menu li a {
 /** banner section **/
 
 .full_bg {
-     background: url(../images/banner1.jpg);
+     background: url(../images/banner3.jpg);
      background-size: 100% 100%;
      background-position: center;
      background-repeat: no-repeat;
@@ -532,7 +532,7 @@ ul.site_menu li a {
 
 .about_img figure img {
      border-radius: 300%;
-     border: #f6dc67ab solid 35px;
+     border: #f8a32c solid 35px;
      text-align: center;
      margin: 0 auto;
      display: block;
@@ -565,7 +565,7 @@ ul.site_menu li a {
 }
 
 .product {
-     background-color: #f3cf2d;
+     background-color: #f8a32c;
      padding: 33px 10px;
 }
 
@@ -594,7 +594,7 @@ ul.site_menu li a {
 }
 
 .products .read_more:hover {
-     background-color: #f3cf2d;
+     background-color: #f8a32c;
 }
 
 .banner_pro {
@@ -617,7 +617,7 @@ ul.site_menu li a {
 #prod .carousel-control-next:hover,
 #prod .carousel-control-prev:focus,
 #prod .carousel-control-next:focus {
-     background: #f3cf2d;
+     background: #f8a32c;
      color: #fff;
 }
 
@@ -649,7 +649,7 @@ ul.site_menu li a {
 }
 
 .bg_yeloow {
-     background: #f3cf2d;
+     background: #f8a32c;
      padding: 50px 0;
 }
 
@@ -755,7 +755,7 @@ ul.site_menu li a {
 .sunm_btn {
      font-size: 17px;
      transition: ease-in all 0.5s;
-     background-color: #f3cf2d;
+     background-color: #f8a32c;
      text-transform: uppercase;
      color: #fff;
      max-width: 156px;

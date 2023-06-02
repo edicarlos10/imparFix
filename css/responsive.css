@@ -67,7 +67,7 @@
 
 @media (max-width: 575px) {
     .header {
-        padding: 20px 0px;
+        padding: 0px 0px;
     }
     .text_align_right {
         margin-top: -35px;
